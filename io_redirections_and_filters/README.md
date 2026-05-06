@@ -1,5 +1,1 @@
-# io_redirections_and_filters
-
-Collection of shell scripts covering I/O redirections and filters for Holberton School.
-
-Each script is exactly two lines: the shebang and one command.
+7-file: Creates a file with a special name containing Best School
